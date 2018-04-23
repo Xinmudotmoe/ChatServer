@@ -1,0 +1,57 @@
+#oc{
+    height: 360px;
+    width:100%;
+    overflow-y:scroll;
+    background-color: #cc66ff;
+}
+#ic{
+    height: 40px;
+    width:500px;
+    position: absolute;
+    background-color: #66ccff;
+}
+#iic{
+    height: auto;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    resize: none;
+    font-family: monospace;
+    background-color: white;
+    cursor: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: 100%;
+    overflow: hidden;
+}
+.ioc{
+    height: 30px;
+    width: 90%;
+    background-color: #ccff66;
+    font-family: monospace;
+    margin-left: 15px;
+    border-left: 20px;
+    border-right: 40px;
+    margin-top: 4px;
+    border-bottom: 20px;
+}
+.iot{
+    height: 6px;
+    font-family: monospace;
+    font-size: xx-small;
+    text-align: right;
+    color: #666666;
+    float: right;
+}
+.ioh{
+    height: 22px;
+    width: 100%;
+    left: 0;
+    bottom:0;
+    margin-left: 4px;
+    line-height: 25px;
+    font-family: SimSun-ExtB;
+
+}
